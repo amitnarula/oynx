@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oynx", "Oynx\Oynx.csproj", "{3927ABCC-894A-4831-9301-3CD576440A4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oynx.Tests", "Oynx.Tests\Oynx.Tests.csproj", "{5B5E7F3F-B664-4A00-8A2A-1188DD827CFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3927ABCC-894A-4831-9301-3CD576440A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3927ABCC-894A-4831-9301-3CD576440A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3927ABCC-894A-4831-9301-3CD576440A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3927ABCC-894A-4831-9301-3CD576440A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B5E7F3F-B664-4A00-8A2A-1188DD827CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B5E7F3F-B664-4A00-8A2A-1188DD827CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B5E7F3F-B664-4A00-8A2A-1188DD827CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B5E7F3F-B664-4A00-8A2A-1188DD827CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
